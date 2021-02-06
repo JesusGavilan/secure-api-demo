@@ -32,3 +32,6 @@ benchmarks/graphs
 # Nodejs configuration file
 .env
 build
+
+#docker volumes
+mongo-volume
